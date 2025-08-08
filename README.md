@@ -38,6 +38,7 @@ O backend usa LangChain para ingestão e indexação dos documentos, e OpenAI pa
 ### Pré-requisitos
 
 - Python 3.8 ou superior
+- python -m venv .venv (para criar seu ambiente virtual)
 - Conta e chave API da OpenAI -> crie um arquivo env e coloque sua chave lá (OPENAI_API_KEY="sua-chave-aqui")
 - Instalar dependências:
 
